@@ -1,3 +1,5 @@
+#Created by André Menezes
+
 #!/usr/bin/env python3
 import os
 from cryptography.fernet import Fernet
